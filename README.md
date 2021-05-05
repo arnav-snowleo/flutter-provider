@@ -7,12 +7,12 @@ provider-architecture
 
 - # ChangeNotifier
 
-ChangeNotifier is a simple class included in the Flutter SDK which provides change notification to its listeners. In other words, if something is a ChangeNotifier, you can subscribe to its changes.
+>    ChangeNotifier is a simple class included in the Flutter SDK which provides change notification to its listeners. In other words, if something is a ChangeNotifier, you can        subscribe to its changes.
 
 - # ChangeNotifierProvider
 
-ChangeNotifierProvider is the widget that provides an instance of a ChangeNotifier to its descendants.
+>    ChangeNotifierProvider is the widget that provides an instance of a ChangeNotifier to its descendants.
 
 - # Consumer
 
-rebuilds widgets
+>    rebuilds widgets
